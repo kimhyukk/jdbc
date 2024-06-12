@@ -12,7 +12,6 @@ import java.sql.Connection;
 import java.sql.SQLException;
 
 @Slf4j
-@Service
 @RequiredArgsConstructor
 
 /**
